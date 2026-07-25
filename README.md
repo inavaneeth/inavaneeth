@@ -23,15 +23,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=inavaneth&show_icons=true&theme=dark" alt="Navaneth's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=inavaneth&layout=compact&theme=dark" alt="Top Languages" width="48%" />
-</p>
-
----
-
 ### 📫 Connect With Me
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/inavaneth)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/navaneeth-hari-872248352)
